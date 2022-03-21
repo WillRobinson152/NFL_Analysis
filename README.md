@@ -18,5 +18,5 @@
   For this project, I chose to explore traits of NFL athletes that might help an NFL GM or owner allocate their salary cap to the greatest affect. I completed this project in April 2021.
 </p>
 <p>
-  <strong>To view the final report, click <a href="">here</a>.</strong>
+  <strong>To view the final report, click <a href="https://willrobinson152.github.io/NFL_Analysis/">here</a>.</strong>
 </p>
